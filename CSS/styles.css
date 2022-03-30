@@ -39,9 +39,25 @@ body {
     line-height: 1.6;
     font-size: 12vh;
     text-transform: capitalize;
-    padding: 2% 2%;
+    padding: 5% 3%;
 }
 .description .slogan span{
     color: #ffd60a;
     font-weight: bolder;
+}
+.image img{
+    width: 90%;
+    border-radius: 40% 0 0 0 ;
+    object-fit: cover;
+}
+#more-btn{
+    width: 15%;
+    padding: 8px;
+    border: none;
+    outline: 0.5px solid #f19530;
+    background-color: transparent;
+    color: #ffd60a;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-left: 3%;
 }
