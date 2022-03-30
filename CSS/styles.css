@@ -47,7 +47,7 @@ body {
 }
 .image img{
     width: 90%;
-    border-radius: 40% 0 0 0 ;
+    border-radius: 10% 10% 0 0 ;
     object-fit: cover;
 }
 #more-btn{
@@ -59,5 +59,18 @@ body {
     color: #ffd60a;
     border-radius: 5px;
     font-weight: bold;
-    margin-left: 3%;
+    margin: 0 0 7% 3%;
+}
+video{
+    width: 100%;
+    height: 30vh;
+}
+
+.footer{
+    text-align: center;
+    border: 1px solid #f19530;
+    background-color: #000814;
+    color: #f19530;
+    padding: 0 5%;
+    
 }
