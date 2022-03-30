@@ -4,6 +4,7 @@
     margin: 0;
     box-sizing: border-box;
 }
+/* Navigation bar start */
 .nav .nav-item{
     font-weight: bolder;
     
@@ -16,4 +17,8 @@
     color: #000814;
     border-bottom: 2px solid #003566;
     background-color: #ffd60a;
+}
+/* Navigation bar end */
+body{
+    background-image: url('');
 }
