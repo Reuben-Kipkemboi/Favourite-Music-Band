@@ -24,10 +24,24 @@
 }
 
 /* Navigation bar end */
+/* start of body content */
 body {
     /* background-image: url('../IMAGES/Web-3.0-music-NFT.jpg'), url('../IMAGES/10-reasons-why-i-love-music.jpg'),
         linear-gradient(to right, rgba(30, 75, 115, 1), rgba(255, 255, 255, 0));
     background-repeat: no-repeat,no-repeat,no-repeat;
     background-position: bottom right,left,right; */
     background-image: url('../IMAGES/Web-3.0-music-NFT.jpg');
+    /* background-position: center; */
+    background-size: cover;
+}
+.description .slogan{
+    color: #ffffff;
+    line-height: 1.6;
+    font-size: 12vh;
+    text-transform: capitalize;
+    padding: 2% 2%;
+}
+.description .slogan span{
+    color: #ffd60a;
+    font-weight: bolder;
 }
