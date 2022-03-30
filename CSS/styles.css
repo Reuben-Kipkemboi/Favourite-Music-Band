@@ -1,24 +1,33 @@
-*{
+* {
     font-family: 'Nunito', sans-serif;
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
+
 /* Navigation bar start */
-.nav .nav-item{
+.nav .nav-item {
     font-weight: bolder;
-    
+
 }
-.nav .nav-item .nav-link{
-    color: #001d3d;
+
+.nav .nav-item .nav-link {
+    /* color: #001d3d; */
+    color: #ffffff;
     padding-left: 40px;
 }
-.nav .nav-item .nav-link:hover{
+
+.nav .nav-item .nav-link:hover {
     color: #000814;
     border-bottom: 2px solid #003566;
     background-color: #ffd60a;
 }
+
 /* Navigation bar end */
-body{
-    background-image: url('');
+body {
+    /* background-image: url('../IMAGES/Web-3.0-music-NFT.jpg'), url('../IMAGES/10-reasons-why-i-love-music.jpg'),
+        linear-gradient(to right, rgba(30, 75, 115, 1), rgba(255, 255, 255, 0));
+    background-repeat: no-repeat,no-repeat,no-repeat;
+    background-position: bottom right,left,right; */
+    background-image: url('../IMAGES/Web-3.0-music-NFT.jpg');
 }
